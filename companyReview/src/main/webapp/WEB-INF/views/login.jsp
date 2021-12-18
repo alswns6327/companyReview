@@ -9,7 +9,7 @@
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 </head>
 <body onload="job('${job}')">
-	
+	<input type="text"/>
 	<input type="button" value="login" onclick="job('login')"/> <input type="button" value="join" onclick="job('join')"/>
 	<table id="login">
 		<thead>
