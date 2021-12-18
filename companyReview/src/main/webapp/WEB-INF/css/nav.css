@@ -1,0 +1,39 @@
+#navDiv{
+	display: flex;
+}
+
+#homeName{
+	display: inline-block;
+	width: 20%;
+	height: 20px;
+	background-color: blue;
+}
+
+#nav{
+	position:relative;
+	right:0px;
+	width: 80%;
+	height: 20px;
+	background-color: black;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+a:hover{
+	cursor: pointer;
+	color:red;
+}
+
+#menu{
+	display:flex;
+	justify-content:flex-end;
+	margin: 0px;
+}
+
+.menu{
+	list-style: none;
+	position: relative; 
+}

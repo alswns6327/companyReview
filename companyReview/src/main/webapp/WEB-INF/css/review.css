@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+.score{
+	display: inline-block;
+	width:20px;
+	height: 20px;
+	border: 1px solid black;
+}
